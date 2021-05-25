@@ -1,0 +1,15 @@
+root
+admin
+admin1
+administrator
+Administrator
+guest
+mother
+666666
+888888
+service
+supervisor
+support
+tech
+ubnt
+user
